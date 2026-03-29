@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4.17.15",
-    "serialize-javascript": "2.1.1",
+    "serialize-javascript": "7.0.5",
     "axios": "0.21.0",
     "fast-xml-parser": "4.1.2"
   }
